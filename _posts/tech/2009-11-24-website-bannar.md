@@ -31,8 +31,6 @@ Flash也只是会点皮毛
            document.write("<Img src='images/banner",pic,".jpg' width='760' height='130'>");
      </script>`
 
-* `SHOW TABLE STATUS WHERE NAME='tablename';`
-
 代码很清楚，也很简单，随机产生一个1—4之间的数pic，然后在images文件夹选取长760px，高130px的图片banner+pic.jpg显示，注意根据自己图片的大小、文件名、格式进行修改
 
 ![website-bannar-1]({{site.imageurl}}/website-bannar-1.jpg)
