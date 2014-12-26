@@ -41,6 +41,26 @@ author:     "Charles"
 
 ![wanshousi-4]({{site.imageurl}}/wanshousi-4.jpg)
 
+![wanshousi-7]({{site.imageurl}}/wanshousi-7.jpg)
+
+![wanshousi-8]({{site.imageurl}}/wanshousi-8.jpg)
+
+![wanshousi-9]({{site.imageurl}}/wanshousi-9.jpg)
+
+![wanshousi-10]({{site.imageurl}}/wanshousi-10.jpg)
+
+![wanshousi-11]({{site.imageurl}}/wanshousi-11.jpg)
+
+![wanshousi-12]({{site.imageurl}}/wanshousi-12.jpg)
+
+![wanshousi-13]({{site.imageurl}}/wanshousi-13.jpg)
+
+![wanshousi-14]({{site.imageurl}}/wanshousi-14.jpg)
+
+![wanshousi-15]({{site.imageurl}}/wanshousi-715.jpg)
+
 另外与万寿寺仅一墙之隔的延庆寺，已经破旧不堪。显示着两座寺庙截然不同的命运。
 
 ![wanshousi-6]({{site.imageurl}}/wanshousi-6.jpg)
+
+![wanshousi-16]({{site.imageurl}}/wanshousi-16.jpg)
