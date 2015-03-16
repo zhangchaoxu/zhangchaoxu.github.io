@@ -2,6 +2,7 @@
 layout: post
 title: Podcast List 0: IT Gonglun
 date:  2014-09-24 12:00:00
+author: "Charles"
 description: "podcast,IT gonglun,Charles,Especially for You,esp4u"
 ---
 
