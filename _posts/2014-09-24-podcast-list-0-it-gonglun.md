@@ -4,7 +4,6 @@ title: Podcast List 0: IT公论
 subtitle: Just like talking in the Gay Bar
 date:  2014-09-24 12:00:00
 author: "Charles"
-description: "podcast,IT gonglun,Charles,Especially for You,esp4u"
 header-img: "img/post-bg-06.jpg"
 ---
 
