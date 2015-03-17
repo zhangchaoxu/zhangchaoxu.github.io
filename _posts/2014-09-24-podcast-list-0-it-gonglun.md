@@ -4,6 +4,8 @@ title:      "Podcast List 0: IT公论"
 subtitle:   "Just like talking in the Gay Bar."
 date:       2014-09-24 12:00:00
 author:     "Charles"
+category:   "Vision"
+tags:       [podcast, it]
 header-img: "img/post-bg-01.jpg"
 ---
 
