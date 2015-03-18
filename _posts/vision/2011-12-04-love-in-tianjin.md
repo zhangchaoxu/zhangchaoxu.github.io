@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "念念不忘@天津"
+subtitle:   "Love In Tianjin"
+date:       2011-12-04 08:41
+author:     "Charles"
+header-img: "img/post-bg-01.jpg"
+---
+
+总有那么一个城市让人念念不忘，也总有那么一个人让你恋恋不舍。
+昨天逛马蜂窝的时候看到一个朋友贴的照片，缅怀他一位刚刚离开人世，对这天津有着深切喜爱的年轻朋友。也去看了一下这位成姓朋友，虽然未曾谋面，但看着他的照片，我想他对天津应该和我一样，念念不忘，但愿他在天国也能遇见一个如天津般美好的城市。朋友一路走好。
+<blockquote>下面是这位朋友在人人网上分享的作品。
+
+&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;《<a href="http://photo.renren.com/photo/301975669/album-428722648#thumb" target="_blank">天津掠影</a>》和《<a href="http://photo.renren.com/photo/301975669/album-441722179?albumpage=0#thumb" target="_blank">浪漫五大道</a>》</blockquote>
+&nbsp;&nbsp; &nbsp;对于天津的那份特殊感情源于五六年前，当时高三的我特别喜欢泡阅览室，看过一篇对于南开大学的介绍，然后就对这所学校和学校所在的天津产生了莫名的向往。在高考后也和高兴自己的分数马马虎虎也能进入这所梦寐以求的学校，但是在填写志愿的时候，由于一些原因，在最终将志愿改到了北京。不后悔也不懊恼，但是却对天津和南开怀揣了太大的喜欢与愧疚。
+
+&nbsp;&nbsp; &nbsp;到现在也很清楚地记得在06年的时候独自一人从宁波坐火车到北京上学。凌晨天蒙蒙亮的时候到了天津，我下了火车，生平第一次踏上这份热切的土地。初秋的早晨微凉，我慢慢蹲下，然后在念念不忘的城市给我恋恋不舍的人儿发了一天短信。大概是说我到了天津，有点想哭。然后也忘却了你当时是如何安慰的我。
+<p style="text-align: center;"><img class="size-full wp-image-44 aligncenter" title="love-tianjin-1" src="http://esp4u.org/wp-content/uploads/2011/12/love-tianjin-1.jpg" alt="" width="500" height="333" /></p>
+&nbsp;&nbsp; &nbsp;然后再一次真正踏上天津是07年10月国庆节期间吧，和室友走马观花，五大道--天津大学、南开大学--食品街，都转了一圈。在南开主楼前的周总理塑像前写着一句话：我是爱南开的。总理与我一样最终也没有进入这所大学。看着总理，我当时就在想：我也是爱南开的，和总理您一样。
+
+&nbsp;&nbsp; &nbsp;再然后就是09年的11月了，这次把上次没有去的地方都去了一遍，意大利风情街--海河上琳琅满目的桥--望海楼--古文化街--西开教堂。恰巧又遇到了万圣节夜和第二天的一场雪，因此留下了许多美景照片。
+
+<img class="aligncenter size-full wp-image-45" title="love-tianjin-2" src="http://esp4u.org/wp-content/uploads/2011/12/love-tianjin-2.jpg" alt="" width="500" height="333" />
+
+&nbsp;&nbsp; &nbsp;再下一次希望能是带着恋恋不舍的人前往这个念念不忘的城市。
+<blockquote>更多我的天津作品：《<a href="http://www.douban.com/photos/album/33731251/">爱上天津</a>》</blockquote>
