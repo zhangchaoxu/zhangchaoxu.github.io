@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "美景非良辰"
-subtitle:   "hengshan wharf"
+subtitle:   "Hengshan Wharf"
 date:       2012-05-27 02:35
 author:     "Charles"
 header-img: "img/post-bg-01.jpg"

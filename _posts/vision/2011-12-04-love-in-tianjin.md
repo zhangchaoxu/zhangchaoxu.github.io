@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "念念不忘@天津"
-subtitle:   "Love In Tianjin"
+subtitle:   "Love in Tianjin"
 date:       2011-12-04 08:41
 author:     "Charles"
 header-img: "img/post-bg-01.jpg"

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "房车＠北京"
-subtitle:   "Wutasicun in Beijing"
+subtitle:   "Motor Home in Beijing"
 date:       2012-02-25 03:54
 author:     "Charles"
 header-img: "img/post-bg-01.jpg"

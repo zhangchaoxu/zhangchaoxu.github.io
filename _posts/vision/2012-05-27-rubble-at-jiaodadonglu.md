@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "瓦砾@交大东路"
-subtitle:   "rubble-at-jiaodadonglu"
+subtitle:   "Rubble at Jiaodadonglu"
 date:       2012-05-27 02:24
 author:     "Charles"
 header-img: "img/post-bg-01.jpg"
