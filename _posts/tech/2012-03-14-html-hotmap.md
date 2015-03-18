@@ -7,4 +7,32 @@ author:     "Charles"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>&#160;&#160;&#160; 在页面中我们经常能看见点击一张图片的不同位置，可以指向不同的链接。如在一张中国地图中，点击不同的省市位置，链接向不同的页面。</p>  <p>&#160;&#160;&#160; 这种情况，最简单的便捷的解决方法就是利用HTML语言中的MAP标签。W3School中关于MAP标签介绍：<a href="http://www.w3school.com.cn/tags/tag_map.asp">http://www.w3school.com.cn/tags/tag_map.asp</a></p>  <p>&#160;&#160;&#160; MAP标签的热点形状有rect矩形、circle圆形、poly多边形三种。我们使用Macromedia打开一个含有图片的页面。然后在设计界面中选中图片，就可以在属性中选择MAP的形状了。如下图所示，新疆、西藏、青海分别使用了矩形、圆形和多边形。</p>  <p><a href="http://esp4u.org/wp-content/uploads/2012/03/htmlhotmap.png"><img style="border-right-width: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px" title="html-hotmap" border="0" alt="html-hotmap" src="http://esp4u.org/wp-content/uploads/2012/03/htmlhotmap_thumb.png" width="272" height="508" /></a> </p>  <p>&#160;&#160;&#160; 然后切换到代码视图，我们就可以看到上方操作对应的代码。</p>  <blockquote>   <p>&lt;img src=&quot;chinamap.jpg&quot; alt=&quot;中国地图&quot; border=&quot;0&quot; usemap=&quot;#Map&quot; /&gt;      <br />&lt;map name=&quot;Map&quot; id=&quot;Map&quot;&gt;       <br />&lt;area shape=&quot;rect&quot; coords=&quot;88,121,158,174&quot; href=&quot;#&quot; /&gt;       <br />&lt;area shape=&quot;circle&quot; coords=&quot;105,265,31&quot; href=&quot;#&quot; /&gt;       <br />&lt;area shape=&quot;poly&quot; coords=&quot;149,189,161,185,170,184,179,185,188,187,196,192,200,196,206,194,205,188,209,189,213,192,222,193,228,199,234,199,241,208,247,214,252,224,251,238,244,250,239,263,233,274,225,269,215,264,207,264,206,273,199,276,195,278,185,278,178,271,169,265,156,261,147,252,140,248,135,240,136,225,147,218,150,214,153,203,153,198&quot; href=&quot;#&quot; /&gt;&lt;/map&gt;</p> </blockquote>  <p>&#160;&#160;&#160; 可以看到，首先需要对图片指定usemap对应的MAP名称。然后在MAP标签中指定三个形状,以及三个热点对应的区域。区域是通过coords坐标来对应的。</p>  <p>&#160;&#160;&#160; 每一张图片都是由像素构成的，图片的左上角对应的坐标是（0，0）。一个像素对应的是一个坐标刻度。</p>  <p>&#160;&#160;&#160; 其中rect矩形的coords对应格式是coords=&quot;x1,y1,x2,y2&quot;，（x1，y1）对应的是矩形左上角坐标，（x2，y2）对应的是矩形右下角坐标。</p>  <p>&#160;&#160;&#160; circle圆形的coords对应格式是coords=&quot;x,y,r&quot;，（x，y）对应圆心坐标，r表示圆形的半径。</p>  <p>&#160;&#160;&#160; poly多边形的coords对应格式是coords=&quot;x1,y1,x2,y2,x3,y3……&quot;。多边形是由众多点组成的，其中的（xi，yi）表示的就是第i个点的坐标位置，多边形至少需要三个点构成。</p>
+在页面中我们经常能看见点击一张图片的不同位置，可以指向不同的链接。
+如在一张中国地图中，点击不同的省市位置，链接向不同的页面
+
+这种情况，最简单的便捷的解决方法就是利用HTML语言中的MAP标签。W3School中关于[MAP](http://www.w3school.com.cn/tags/tag_map.asp)标签介绍，MAP标签的热点形状有rect矩形、circle圆形、poly多边形三种。
+我们使用Macromedia打开一个含有图片的页面。
+然后在设计界面中选中图片，就可以在属性中选择MAP的形状了。
+如下图所示，新疆、西藏、青海分别使用了矩形、圆形和多边形。
+
+![htmlhotmap](/img/htmlhotmap.png)
+
+然后切换到代码视图，我们就可以看到上方操作对应的代码。
+
+`<img src="chinamap.jpg" alt="中国地图" border="0" usemap="#Map" />
+ <map name="Map" id="Map">
+ <area shape="rect" coords="88,121,158,174" href="#" />
+ <area shape="circle" coords="105,265,31" href="#" />
+ <area shape="poly" coords="149,189,161,185,170,184,179,185,188,187,196,192,200,196,206,194,205,188,209,189,213,192,222,193,228,199,234,199,241,208,247,214,252,224,251,238,244,250,239,263,233,274,225,269,215,264,207,264,206,273,199,276,195,278,185,278,178,271,169,265,156,261,147,252,140,248,135,240,136,225,147,218,150,214,153,203,153,198" href="#" /></map>`
+
+可以看到，首先需要对图片指定usemap对应的MAP名称。
+然后在MAP标签中指定三个形状,以及三个热点对应的区域。
+区域是通过coords坐标来对应的。
+
+每一张图片都是由像素构成的，图片的左上角对应的坐标是（0，0）。
+一个像素对应的是一个坐标刻度。
+
+其中rect矩形的coords对应格式是`coords="x1,y1,x2,y2"`，（x1，y1）对应的是矩形左上角坐标，（x2，y2）对应的是矩形右下角坐标。
+circle圆形的coords对应格式是`coords="x,y,r"`，（x，y）对应圆心坐标，r表示圆形的半径。
+poly多边形的coords对应格式是`coords="x1,y1,x2,y2,x3,y3……"`。
+多边形是由众多点组成的，其中的（xi，yi）表示的就是第i个点的坐标位置，多边形至少需要三个点构成。
