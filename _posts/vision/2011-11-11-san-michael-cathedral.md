@@ -34,4 +34,5 @@ header-img: "img/post-bg-01.jpg"
  ![san-michael-cathedral-4](/img/san-michael-cathedral-4.jpg)
 
 圣米厄尔天主堂是我见过的北京天主教堂中比较精致的一个，外饰比较迷人，而内部也不错，没有了其他教堂的陈旧感。而且东交民巷一路上许多原使馆、外国银行，都是很不错的建筑。
->更多教堂作品请移步豆瓣相册：[神游教堂](http://www.douban.com/photos/album/33729748/)
+
+> 更多教堂作品请移步豆瓣相册：[神游教堂](http://www.douban.com/photos/album/33729748/)
