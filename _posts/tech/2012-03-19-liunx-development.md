@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "Linux简单发展历程与版本"
 subtitle:   "liunx-development"
 date:       2012-03-19 03:21

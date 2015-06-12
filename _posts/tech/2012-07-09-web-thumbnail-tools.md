@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "网页图片压缩"
 subtitle:   "Web Thumbnail Tools"
 date:       2012-07-09 01:52

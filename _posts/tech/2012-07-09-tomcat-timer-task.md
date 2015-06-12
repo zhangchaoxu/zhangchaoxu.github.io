@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "Java Web定时执行任务"
 subtitle:   "Tomcat Timer Task"
 date:       2012-07-09 01:41

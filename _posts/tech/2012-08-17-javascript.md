@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "JavaScript学习笔记"
 subtitle:   "JavaScript"
 date:       2012-08-17 00:34

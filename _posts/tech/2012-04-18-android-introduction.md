@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "Android学习笔记-入门简介"
 subtitle:   "Android Introduction"
 date:       2012-04-18 03:03

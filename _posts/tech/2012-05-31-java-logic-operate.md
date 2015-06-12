@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "JAVA中的逻辑运算符"
 subtitle:   "Java Logic Operate"
 date:       2012-05-31 12:23

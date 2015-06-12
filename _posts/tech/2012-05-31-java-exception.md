@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "Java的异常处理"
 subtitle:   "Java Exception"
 date:       2012-05-31 07:36

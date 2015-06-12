@@ -1,5 +1,6 @@
 ---
 layout:     post
+category:   "tech"
 title:      "HTTP请求模型"
 subtitle:   "http-request"
 date:       2012-03-16 02:58
