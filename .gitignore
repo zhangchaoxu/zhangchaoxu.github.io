@@ -1,2 +1,7 @@
 _site
 node_modules
+
+/** intellij idea cfg file **/
+*.iml
+*.ipr
+*.iws
