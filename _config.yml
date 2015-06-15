@@ -18,7 +18,7 @@ aboutme_photo: https://avatars2.githubusercontent.com/u/2672164 # your photo.
 google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site settings:
-ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
