@@ -1,29 +1,32 @@
 ### Site info:
 title: Especially for you
-tagline: Especially for you
+tagline: Another Jekyll theme, Freshman twenty-first
 author: Charles
 email: zhangchaoxu@gmail.com
-description: "Lean56, esp4u, especiall for you, Charles"
+description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-url: "http://lean56.com"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://lean56.com" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-github_username: zhangchaoxu
-favicon: "/images/favicon.ico"
-aboutme: Hi, this is Charles. Enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://avatars2.githubusercontent.com/u/2672164 # your photo.
-google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
+github_username:  zhangchaoxu
+favicon:     "/images/favicon.ico"
+aboutme: Hi, this is Charles. # these are shown on aboutme-sidebar.
+aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
-### Site settings:
-ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
-default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
+
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 locales:
     en:
       Aboutme: "About Me"
       Archives: "Archives"
+      Blogroll: "Blogroll"
       Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Recent Posts"
@@ -37,20 +40,30 @@ locales:
     cn:
       Aboutme: "关于我"
       Archives: "存档"
-      Categories: "分类目录"
+      Blogroll: "良师益友"        
+      Categories: "分类目录"    
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
-      Tags: "标签"
+      Tags: "标签" 
       Previous: "前一页"
       Next: "后一页"
-      PostedInCategories: "目录:"
+      PostedInCategories: "目录:"   
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+      - name: Freshman
+        href: http://yulijia.net/freshman
+        title: Another Jekyll blog theme
+      - name: author's website
+        href: http://yulijia.net/
+        title: Lijia Yu's website
+
 
 ### Build settings
 markdown: kramdown
 highlighter: pygments
-#permalink: pretty
-paginate: 10
+paginate: 5
 excerpt_separator: <!-- more -->
