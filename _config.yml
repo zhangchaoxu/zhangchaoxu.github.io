@@ -1,19 +1,26 @@
 # Site settings
 title: LEAN56
-header-img: img/home-bg.jpg
+tagline: Especiall for You
+author: Charles
 email: zhangchaoxu@gmail.com
-description: "Lean56, esp4u, especiall for you, Charles"
-url: "http://lean56.com"
+description: "Lean56 is blog of Charles." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "Lean56, esp4u, especiall for you, Charles"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://lean56.com" # the base hostname & protocol for your site
+locale: en_US
+
+### Personal info and site tools info
 github_username:  zhangchaoxu
+favicon:     "/images/favicon.ico"
+google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
 ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
-# Build settings
+### Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README-Clean-Blog.md","zhangchaoxu.github.io.*"]
+excerpt_separator: <!-- more -->
