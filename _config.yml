@@ -9,18 +9,20 @@ url: "http://lean56.com" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info
-github_username:  zhangchaoxu
-favicon:     "/images/favicon.ico"
+github_username: zhangchaoxu
+favicon: "/images/favicon.ico"
 google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
 ShowContactInfo: "False" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
 locales:
     en:
       Aboutme: "About Me"
       Archives: "Archives"
+      Blogroll: "Blogroll"
       Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Recent Posts"
@@ -30,10 +32,10 @@ locales:
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
       PostDate: "on "
-      Google_search: "Site Search"
     cn:
       Aboutme: "关于我"
       Archives: "存档"
+      Blogroll: "良师益友"
       Categories: "分类目录"
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
@@ -43,7 +45,8 @@ locales:
       PostedInCategories: "目录:"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
-      Google_search: "站内搜索"
+
+### your Blogroll info, only name can shown on the page.
 
 ### Build settings
 markdown: kramdown
