@@ -1,10 +1,24 @@
-# Site settings
-title: LEAN56
-header-img: img/home-bg.jpg
+# Site info
+title: Especially For You
+tagline: Especially for you
+author: Charles
 email: zhangchaoxu@gmail.com
 description: "Lean56, esp4u, especiall for you, Charles"
+keywords: "Jekyll, theme, Freshman21"
 url: "http://lean56.com"
 github_username:  zhangchaoxu
+locale: en_US
+
+### Personal info and site tools info:
+github_username: zhangchaoxu
+favicon: "/images/favicon.ico"
+aboutme: Hi, this is Charles. Enjoy it. # these are shown on aboutme-sidebar.
+google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
+
+### Site settings:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 # Build settings
 markdown: kramdown
