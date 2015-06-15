@@ -6,6 +6,7 @@ email: zhangchaoxu@gmail.com
 description: "Lean56, esp4u, especiall for you, Charles"
 keywords: "Jekyll, theme, Freshman21"
 url: "http://lean56.com"
+baseurl: "" # the subpath of your site, e.g. /blog/
 github_username:  zhangchaoxu
 locale: en_US
 
