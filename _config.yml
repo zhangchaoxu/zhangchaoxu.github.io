@@ -1,4 +1,4 @@
-# Site info
+### Site info
 title: Especially For You
 tagline: Especially for you
 author: Charles
@@ -58,7 +58,7 @@ Blogroll:
         href: http://lean56.com
         title: Especially For You
 
-# Build settings
+### Build settings
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
