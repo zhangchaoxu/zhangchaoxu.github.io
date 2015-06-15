@@ -57,4 +57,3 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README-Clean-Blog.md","zhangchaoxu.github.io.*"]
