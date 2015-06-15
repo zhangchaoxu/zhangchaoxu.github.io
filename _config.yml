@@ -24,8 +24,7 @@ default_locale: "en" # blog sidebar language set, only include: English(en) and 
 locales:
     en:
       Aboutme: "About Me"
-      Archives: "Archives"
-      Categories: "Categories"
+      Archives: "Archives"      Categories: "Categories"
       Copyright_Notice: "Copyright Notice"
       Recent_Posts: "Recent Posts"
       Tags: "Tags"
