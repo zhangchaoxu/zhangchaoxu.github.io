@@ -51,5 +51,6 @@ locales:
 ### Build settings
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+#permalink: pretty
 paginate: 10
+excerpt_separator: <!-- more -->
