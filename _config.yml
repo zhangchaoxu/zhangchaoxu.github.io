@@ -5,7 +5,6 @@ author: Charles
 email: zhangchaoxu@gmail.com
 description: "Lean56 is blog of Charles." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Lean56, esp4u, especiall for you, Charles"
-baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://lean56.com" # the base hostname & protocol for your site
 locale: en_US
 
