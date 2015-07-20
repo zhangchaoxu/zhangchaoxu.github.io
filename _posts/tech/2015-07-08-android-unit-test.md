@@ -1,4 +1,13 @@
-Android测试分为了Instrumentation Test和JUnit Test
+---
+layout:     post
+category:   "tech"
+title:      "Android单元测试"
+subtitle:   "Android Unit Test"
+date:       2015-07-08 00:00
+author:     "Charles"
+---
+
+Android单元测试分为了Instrumentation Test和JUnit Test
 
 ### Instrumentation
 一般用于和Android组件相关的测试，测试类位于src/androidTest/java下,AS中默认打开
