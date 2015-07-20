@@ -17,7 +17,7 @@ filter: 'category' # Choose 'tag' or 'category' as filter in sidebar.
 
 ### Build settings
 markdown: kramdown
-highlighter: kramdown
+highlighter: rouge
 sass:
   style: compressed
 gems:
