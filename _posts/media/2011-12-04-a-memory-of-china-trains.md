@@ -8,7 +8,7 @@ date:       2011-12-04 09:24
 author:     "Charles"
 ---
 
-[![open in douban]({{site.imageurl}}}/a-memory-of-china-trains.jpg)](http://book.douban.com/subject/1877908/)
+[![open in douban]({{site.imageurl}}/a-memory-of-china-trains.jpg)](http://book.douban.com/subject/1877908/)
 
 虽然经历了春运多年的摧残，对火车还是毅然抱有好感，一直以来都有着独特的火车情节，所以当我在昌平图书馆的书架上看到这书名，再加上那漂亮的封面，毫不犹豫地拿起借走。
 
