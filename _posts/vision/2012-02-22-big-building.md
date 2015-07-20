@@ -16,7 +16,7 @@ header-img: "img/post-bg-01.jpg"
 
 ![birdnest](/img/birdnest.jpg)
 
-![anchang1]({{site.resurl}}}/image/2013/anchang1.jpg)
+![anchang1]({{site.resurl}}/image/2013/anchang1.jpg)
 
 ![watercube](/img/watercube.jpg)
 
