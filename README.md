@@ -1,4 +1,4 @@
-#LEAN56 | Especially For You
+#LEAN56 | Especially for You
 [![Build Status](https://travis-ci.org/zhangchaoxu/zhangchaoxu.github.io.png?branch=master)](https://travis-ci.org/zhangchaoxu/zhangchaoxu.github.io)
 
 ## About
