@@ -7,8 +7,7 @@ date:       2012-07-09 01:52
 author:     "Charles"
 header-img: "img/post-bg-01.jpg"
 ---
-
-&nbsp;&nbsp;&nbsp; 在网页中经常会用到图片的压缩，缩略图的生成。
+在网页中经常会用到图片的压缩，缩略图的生成。
 
 &nbsp;&nbsp;&nbsp; 比较常用的工具是I<a href="http://http://www.imagemagick.org" target="_blank">mageMagick</a>，以及由ImageMagick派生出来的<a href="http://http://www.graphicsmagick.org/" target="_blank">GraphicsMagick</a>，一般方法是结合im4java包。调用<a href="http://http://www.graphicsmagick.org/" target="_blank">GraphicsMagick</a>中的命令行。
 

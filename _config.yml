@@ -7,6 +7,7 @@ description: "Lean56 is blog of Charles." # You can edit this line in _config.ym
 keywords: "Lean56, esp4u, especiall for you, Charles"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lean56.com" # the base hostname & protocol for your site
+resurl: "http://7xjqqp.com1.z0.glb.clouddn.com" # res url, powered by qiniu
 
 ### Personal info and site tools info
 github: zhangchaoxu
