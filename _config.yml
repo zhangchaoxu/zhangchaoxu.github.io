@@ -11,7 +11,6 @@ resurl: "http://7xjqqp.com1.z0.glb.clouddn.com" # res url, powered by qiniu
 
 ### Personal info and site tools info
 github: zhangchaoxu
-favicon: "/images/favicon.ico"
 
 # Sidebar filter
 filter: 'category' # Choose 'tag' or 'category' as filter in sidebar.
@@ -23,5 +22,4 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
-
 exclude: [vendor]
