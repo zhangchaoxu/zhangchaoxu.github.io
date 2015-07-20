@@ -10,9 +10,7 @@ install:
   - gem install jekyll-sitemap
 
 script:
-  # jekyll build && htmlproof ./_site
-  - bundle exec jekyll build
-  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
+  jekyll build && htmlproof ./_site
 
 # script:
 #  - bundle exec jekyll build
