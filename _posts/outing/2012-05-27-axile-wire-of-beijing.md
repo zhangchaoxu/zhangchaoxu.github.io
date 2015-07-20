@@ -27,7 +27,7 @@ author:     "Charles"
 南边移到宣武门、崇文门一线。一百多年以后，明世宗嘉靖，本想在内城的四周加固一道城墙，形成一个“回”字形的内外城格局。
 不过后来由于国库空虚等各种原因，最终只在南边加固了城墙，形成一个倒“凸”字形的内外城结构。
 
-![axilewireofbeijing2](/img/axilewireofbeijing2.jpg)
+![axilewireofbeijing2]({{site.imageurl}}/axilewireofbeijing2.jpg)
 
 由于北京是一个规划后建造的城市，而且在古人建城，尤其是都城，遵循《周记 礼公考》中的规制。
 
@@ -37,12 +37,12 @@ author:     "Charles"
 
 都城中有九条南北大道、九条东西大道，每条大道可容九辆车并行。王宫的路门外左边是宗庙，右边是社稷坛；王宫的路寝前面是朝，北宫的后面是市。
 
-![axilewireofbeijing1](/img/axilewireofbeijing1.jpg)
+![axilewireofbeijing1]({{site.imageurl}}/axilewireofbeijing1.jpg)
 
 而从上面可以看出，北京的城市格局是基本对称的，有着一条十分完美的中轴线。
 从外城开始往南分别是永定门、天桥、正阳门、毛主席纪念馆(后建)、人民英雄纪念碑(后建)、大清门(已拆)、天安门、午门、端门、太和殿、中和殿、保和殿、乾清宫、交泰殿、坤宁宫、神武门、景山、地安门(已拆)、鼓楼、钟楼。
 
-![axilewireofbeijing3](/img/axilewireofbeijing3.jpg)
+![axilewireofbeijing3]({{site.imageurl}}/axilewireofbeijing3.jpg)
 
 如果按照标志建筑物的高度，整个中轴线就像一首充满韵律的乐章，乐章从永定门开始悠扬起转，景山是乐章的高潮、然后慢慢在钟鼓楼收尾。
 梁思成曾经这样赞誉这条中轴线“一根长达八公里，全世界最长，也是最伟大的南北中轴线穿过全城。

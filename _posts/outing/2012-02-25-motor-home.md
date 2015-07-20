@@ -15,6 +15,6 @@ author:     "Charles"
 车里各种简陋的生活用品，还有一个小女孩趴着做作业。这样的场景其实很多，在交大东路上就有好几辆这种报废i的中巴车，把外面的玻璃一涂装就成了一个家，或者是一个小卖部。
 也许是在北京待的久了，各种上层与低层的冲突矛盾格外凸显，慢慢在表明上显得波澜不惊、见怪不怪，但心中还是一如既往地愤慨，却也无奈。
 
-![motorhome](/img/motorhome.jpg)
+![motorhome]({{site.imageurl}}/motorhome.jpg)
 
 > 更多照片请见[This is Beijing](http://www.douban.com/photos/album/36253377/)

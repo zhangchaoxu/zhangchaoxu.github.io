@@ -24,9 +24,9 @@ header-img: "img/post-bg-01.jpg"
 其实这一段是我在去绍兴之前特地找出原先的书本默记了的。
 本想勾起一起在初中时的回忆，游人以为我得瑟，你也一点不以为意。
 
-![luxunguju1](/img/luxunguju1.jpg)
+![luxunguju1]({{site.imageurl}}/luxunguju1.jpg)
 
  而三味书屋最让人印象深刻的必然是迅哥刻在上面的那个“早”字，当年迅哥的书桌或早已不再。
  但却勉励了很多人，不知道多少学子效仿迅哥在书桌上或刻或写下一个同样的“早”字。
 
-![luxunguju2](/img/luxunguju2.jpg)
+![luxunguju2]({{site.imageurl}}/luxunguju2.jpg)

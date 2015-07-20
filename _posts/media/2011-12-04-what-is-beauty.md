@@ -8,7 +8,7 @@ date:       2011-12-04 09:17
 author:     "Charles"
 ---
 
-[![open in douban](/img/the-path-of-beauty.jpg)](http://book.douban.com/subject/1034067/)
+[![open in douban]({{site.imageurl}}/the-path-of-beauty.jpg)](http://book.douban.com/subject/1034067/)
 
 这几天读了李泽厚先生的巨著《美的历程》，学术味比较重的一本著作，在书中李先生引经据典、旁征博引，一本16开不厚的书中，从远古时期的图腾讲起，一直讲到明清时期的文学。
 一共十个章节，基本是按照编年体写成，内容纷繁芜杂，远古的龙凤图腾、夏商的青铜饕餮、先秦的理性精神、楚汉的浪漫离骚、魏晋的人文风度、唐宋的诗词歌赋、明清的文学工艺。

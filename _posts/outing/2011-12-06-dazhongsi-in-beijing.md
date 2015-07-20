@@ -16,7 +16,7 @@ author:     "Charles"
 进门就是分别是山门、钟鼓楼、天王殿、大雄宝殿、后殿、藏经楼、大钟楼和东西翼楼。
 山门前一个庭院，山门两侧是屏墙。
 
-![dazhongsi-1](/img/dazhongsi-1.jpg)
+![dazhongsi-1]({{site.imageurl}}/dazhongsi-1.jpg)
 
 山门，牌匾上书敕建觉生寺，体现其皇家寺庙的地位。
 进门两侧分别是钟鼓楼，中间是天王殿，往后是大雄宝殿。
@@ -27,4 +27,4 @@ author:     "Charles"
 右图这个就是国宝级的永乐大钟，听说当时由于体积重量太大无法搬运，工匠们想出了在寒冬沿路打井，路上洒水结冰后在冰面滑行，不得不感叹当时工匠们的聪慧以及君主的暴政！
 最后那个是建筑风铃，也算是钟的一种吧！
 
-![dazhongsi-2](/img/dazhongsi-2.jpg)
+![dazhongsi-2]({{site.imageurl}}/dazhongsi-2.jpg)

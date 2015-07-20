@@ -22,4 +22,4 @@ author:     "Charles"
 
 再另外是陈凯歌导演拍过一个十分钟的短片，名为百花深处，想说的是翻译为100 Flowers Hidden Deep.
 
-![100-flowers-hidden-deep](/img/100-flowers-hidden-deep.jpg)
+![100-flowers-hidden-deep]({{site.imageurl}}/100-flowers-hidden-deep.jpg)

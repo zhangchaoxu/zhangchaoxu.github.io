@@ -28,6 +28,6 @@ author:     "Charles"
 
 这就是2011年的1月9日，早上八点，清晨不晨。
 
-![9th-jab-morning-1](/img/9th-jab-morning-1.jpg)
+![9th-jab-morning-1]({{site.imageurl}}/9th-jab-morning-1.jpg)
 
-![9th-jab-morning-2](/img/9th-jab-morning-2.jpg)
+![9th-jab-morning-2]({{site.imageurl}}/9th-jab-morning-2.jpg)

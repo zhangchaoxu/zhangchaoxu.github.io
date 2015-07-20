@@ -16,7 +16,7 @@ author:     "Charles"
 然后在设计界面中选中图片，就可以在属性中选择MAP的形状了。
 如下图所示，新疆、西藏、青海分别使用了矩形、圆形和多边形。
 
-![htmlhotmap](/img/htmlhotmap.png)
+![htmlhotmap]({{site.imageurl}}/htmlhotmap.png)
 
 然后切换到代码视图，我们就可以看到上方操作对应的代码。
 

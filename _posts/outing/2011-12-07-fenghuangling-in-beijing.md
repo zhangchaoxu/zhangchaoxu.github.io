@@ -15,12 +15,12 @@ author:     "Charles"
 于是便有了去一探究竟的念头。
 四月上旬的时候凤凰岭的杏花开的最是艳丽，只是那时候忙着考试，所以一直推到了月底，只是北京的春秋本就短，而美好的东西总是短暂，那花儿可不等我，早早的都凋落了，葱葱郁郁的嫩芽和绿叶，还有些许白色的小野花
 
-![fenghuangling-1](/img/fenghuangling-1.jpg)
+![fenghuangling-1]({{site.imageurl}}/fenghuangling-1.jpg)
 
-![fenghuangling-2](/img/fenghuangling-2.jpg)
+![fenghuangling-2]({{site.imageurl}}/fenghuangling-2.jpg)
 
-![fenghuangling-3](/img/fenghuangling-3.jpg)
+![fenghuangling-3]({{site.imageurl}}/fenghuangling-3.jpg)
 
-![fenghuangling-4](/img/fenghuangling-4.jpg)
+![fenghuangling-4]({{site.imageurl}}/fenghuangling-4.jpg)
 
-![fenghuangling-5](/img/fenghuangling-5.jpg)
+![fenghuangling-5]({{site.imageurl}}/fenghuangling-5.jpg)

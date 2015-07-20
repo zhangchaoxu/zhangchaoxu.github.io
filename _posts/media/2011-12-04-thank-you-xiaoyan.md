@@ -8,7 +8,7 @@ date:       2011-12-04 09:29
 author:     "Charles"
 ---
 
-[![open in douban](/img/thank-you-xiaoyan.jpg)](http://book.douban.com/subject/5366278/)
+[![open in douban]({{site.imageurl}}/thank-you-xiaoyan.jpg)](http://book.douban.com/subject/5366278/)
 
 这几天，把张小砚的这本游记给看了。很对不住小砚，我看的是天涯的帖子。书价￥32.80，就当是你为我的旅行做的贡献吧。
 如果我旅途回来致感谢辞的话我会加上一句：多谢小砚，资助了我32块8的经费和旅行的勇气。

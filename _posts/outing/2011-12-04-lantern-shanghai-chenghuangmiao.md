@@ -17,13 +17,13 @@ author:     "Charles"
 
 还记得当时从我们家那边去上海坐的渡轮，要在船上歇一宿，而由于我个子矮，常常是逃票。
 
-![chenghuangmiao-1](/img/chenghuangmiao-1.jpg)
+![chenghuangmiao-1]({{site.imageurl}}/chenghuangmiao-1.jpg)
 
 今年元宵节途径上海来的北京，于是在上海待了几天，恰巧是元宵节，于是兴致勃勃地想去老城隍庙看看，没成想居然售票，还售价不菲，要80，
 所以在周边转了圈就去了外滩，想见识一下元宵节的外滩夜景，但结果让我很失望，没有烟火，明珠塔也亮的不通透，气温还低。
 
-![chenghuangmiao-2](/img/chenghuangmiao-2.jpg)
+![chenghuangmiao-2]({{site.imageurl}}/chenghuangmiao-2.jpg)
 
 今年是兔年，自然少不了各种兔子灯。
 
-![chenghuangmiao-3](/img/chenghuangmiao-3.jpg)
+![chenghuangmiao-3]({{site.imageurl}}/chenghuangmiao-3.jpg)

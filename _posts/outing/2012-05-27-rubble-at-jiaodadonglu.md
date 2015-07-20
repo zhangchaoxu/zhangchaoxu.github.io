@@ -8,7 +8,7 @@ date:       2012-05-27 02:24
 author:     "Charles"
 ---
 
-![demolitionatjiaodadonglu](/img/demolitionatjiaodadonglu.jpg)
+![demolitionatjiaodadonglu]({{site.imageurl}}/demolitionatjiaodadonglu.jpg)
 
 某天的中午，学苑公寓出来，从天桥往学校里边走。
 走着走着往回一看，发现天桥脚下原先的一排黑暗料理都已经拆迁的差不多了。

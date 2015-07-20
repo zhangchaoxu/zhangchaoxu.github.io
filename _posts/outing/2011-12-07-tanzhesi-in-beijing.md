@@ -19,14 +19,14 @@ author:     "Charles"
 只是门前以及牌楼处种满了松柏。
 北京的山区的春雨还是把人冻的够呛，游人稀少，大殿前一个穿着棉袄的大和尚干脆玩起了手机。
 
-![tanzhesi-1](/img/tanzhesi-1.jpg)
+![tanzhesi-1]({{site.imageurl}}/tanzhesi-1.jpg)
 
 去的时候本想着能看见大片的玉兰花，可能是郊区气温比较低，玉兰花都还没开，看着花骨朵估计还得等上一阵，只有黄色的连翘明晃晃的耀眼和这种白花。
 在虎山处发现一对情人刻下的誓言：永远甜爱。
 多美好的愿望啊。出来门口的山墙自然脱落的形成的爱心，与那句誓言相互辉映。
 
-![tanzhesi-2](/img/tanzhesi-2.jpg)
+![tanzhesi-2]({{site.imageurl}}/tanzhesi-2.jpg)
 
 最后附上一张是门前的931路公交车站牌，老旧的站牌，不知见证了多少的善男信女从门前进出。
 
-![tanzhesi-3](/img/tanzhesi-3.jpg)
+![tanzhesi-3]({{site.imageurl}}/tanzhesi-3.jpg)

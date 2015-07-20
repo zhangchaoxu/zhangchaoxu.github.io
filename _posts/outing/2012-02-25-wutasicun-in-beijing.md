@@ -13,8 +13,8 @@ author:     "Charles"
 下面几幅都是几年前的照片，至少是09年的了吧。翻出来让看看。
 两三年过去了，那边的居民还是生活在高楼挤压下，还是继续生活在这城中村中。
 
-![wutasicun1](/img/wutasicun1.jpg)
+![wutasicun1]({{site.imageurl}}/wutasicun1.jpg)
 
-![wutasicun2](/img/wutasicun2.jpg)
+![wutasicun2]({{site.imageurl}}/wutasicun2.jpg)
 
 > 更多照片请见[This is Beijing](http://www.douban.com/photos/album/36253377/)

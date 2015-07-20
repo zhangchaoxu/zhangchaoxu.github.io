@@ -17,4 +17,4 @@ author:     "Charles"
 扯远了，去了传说中的地坛春季书市，确实是人山书海。
 价格也很便宜，但是书的质量也良莠不齐，很多是明显的盗版或者是出版社的次品。
 
-![ditan-bookmarket-1](/img/ditan-bookmarket-1.jpg)
+![ditan-bookmarket-1]({{site.imageurl}}/ditan-bookmarket-1.jpg)

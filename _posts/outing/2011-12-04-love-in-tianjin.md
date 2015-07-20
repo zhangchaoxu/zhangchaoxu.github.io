@@ -22,7 +22,7 @@ author:     "Charles"
 初秋的早晨微凉，我慢慢蹲下，然后在念念不忘的城市给我恋恋不舍的人儿发了一天短信。
 大概是说我到了天津，有点想哭。然后也忘却了你当时是如何安慰的我。
 
-![love-tianjin-1](/img/love-tianjin-1.jpg)
+![love-tianjin-1]({{site.imageurl}}/love-tianjin-1.jpg)
 
 然后再一次真正踏上天津是07年10月国庆节期间吧，和室友走马观花，五大道--天津大学、南开大学--食品街，都转了一圈。
 在南开主楼前的周总理塑像前写着一句话：我是爱南开的。
@@ -32,7 +32,7 @@ author:     "Charles"
 再然后就是09年的11月了，这次把上次没有去的地方都去了一遍，意大利风情街--海河上琳琅满目的桥--望海楼--古文化街--西开教堂。
 恰巧又遇到了万圣节夜和第二天的一场雪，因此留下了许多美景照片。
 
-![love-tianjin-2](/img/love-tianjin-2.jpg)
+![love-tianjin-2]({{site.imageurl}}/love-tianjin-2.jpg)
 
 再下一次希望能是带着恋恋不舍的人前往这个念念不忘的城市。
 > 更多我的天津作品：[爱上天津](http://www.douban.com/photos/album/33731251/)

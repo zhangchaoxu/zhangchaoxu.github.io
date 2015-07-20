@@ -14,10 +14,10 @@ date:       2012-02-22 13:21
 那么在长安街紧挨人民大会堂修建这么一个下沉的鸟蛋——国家大剧院就让我很是不能理解。
 虽然进入以后我为它恢宏的气势随震慑，但从景山山顶王难忘，看见一个浑圆的钢筋体如UFO降落在天安门广场周边，在阳光的照射下格外的刺眼。
 
-![birdnest](/img/birdnest.jpg)
+![birdnest]({{site.imageurl}}/birdnest.jpg)
 
-![watercube](/img/watercube.jpg)
+![watercube]({{site.imageurl}}/watercube.jpg)
 
-![nationtheatre](/img/nationtheatre.jpg)
+![nationtheatre]({{site.imageurl}}/nationtheatre.jpg)
 
-![chinesered](/img/chinesered.jpg)
+![chinesered]({{site.imageurl}}/chinesered.jpg)

@@ -15,11 +15,11 @@ author:     "Charles"
 万寿寺山门上方，有清顺治二年御赐的石匾，上书“敕建护国万寿寺”。
 山门两侧的卡子墙、撇山影壁的砖雕，构图精细，为不可多得之艺术精品。两侧齐胸高的宇墙虎皮底座，朱墙白顶，色彩分明。
 
-![wanshousi-1](/img/wanshousi-1.jpg)
+![wanshousi-1]({{site.imageurl}}/wanshousi-1.jpg)
 
 值得一提的是上门内的洪福齐天图，山门券顶绘有青天流云百蝠图，百只形态各异的红色蝙蝠飞翔于青天流云之间，红蝙蝠谐音“洪福”，以此祝福入寺者洪福齐天。
 
-![wanshousi-2](/img/wanshousi-2.jpg)
+![wanshousi-2]({{site.imageurl}}/wanshousi-2.jpg)
 
 进得山门，便是天王殿。殿前左钟楼，右鼓楼。素有“钟王”之称的永乐大钟曾悬挂于此。天王殿左右两侧的树上挂满了红色的许愿牌。
 
@@ -34,14 +34,14 @@ author:     "Charles"
 中西合璧式的院门，乾隆二十六年扩建寺庙的时候修建的，券顶用的是法国巴洛克式的建筑风格，而门则是典型的中国园林式的圆拱形。
 由于门锁着，后面的光绪御碑亭、千佛阁无缘得见。
 
-![wanshousi-3](/img/wanshousi-3.jpg)
+![wanshousi-3]({{site.imageurl}}/wanshousi-3.jpg)
 
 寺庙的左右两侧现在有许多展览，其实寺庙现在叫中国艺术博物馆，很大气的名字，其实里面就藏着一些佛像和瓷器。
 
-![wanshousi-5](/img/wanshousi-5.jpg)
+![wanshousi-5]({{site.imageurl}}/wanshousi-5.jpg)
 
-![wanshousi-4](/img/wanshousi-4.jpg)
+![wanshousi-4]({{site.imageurl}}/wanshousi-4.jpg)
 
 另外与万寿寺仅一墙之隔的延庆寺，已经破旧不堪。显示着两座寺庙截然不同的命运。
 
-![wanshousi-6](/img/wanshousi-6.jpg)
+![wanshousi-6]({{site.imageurl}}/wanshousi-6.jpg)

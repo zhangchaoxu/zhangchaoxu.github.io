@@ -17,7 +17,7 @@ author:     "Charles"
 飞机上的套餐那还指不定得多贵呢，只好尴尬的摇摇头拒绝了。后来空姐又推车过来送饮料，我审时度势，觉得没有收费的意思嘛，于是连要两杯橙汁，
 大有要把机票钱喝回来的意思。到后来坐多了，我也开始学会在飞机上要两份飞机餐吃个大饱。
 
-![up-in-the-air-1](/img/up-in-the-air-1.jpg)
+![up-in-the-air-1]({{site.imageurl}}/up-in-the-air-1.jpg)
 
 再后来就有了第二次、第三次，但是假期回去的时候还是舍不得坐，因为学生票从北京到杭州只要不到一百块钱，而除了慢和挤以外，火车还是要比飞机方便很多。
 最近发现春秋航空的航班价格很是诱人，在非假期都快赶上火车票价了。
@@ -28,10 +28,10 @@ author:     "Charles"
 这几张都是快到宁波准备降落的时候拍的，天气好的情况下，还是不错的。
 飞跃大江大河，飞跃小桥流水，飞跃土地平原，飞跃群山丘陵。
 
-![up-in-the-air-2](/img/up-in-the-air-2.jpg)
+![up-in-the-air-2]({{site.imageurl}}/up-in-the-air-2.jpg)
 
-![up-in-the-air-3](/img/up-in-the-air-3.jpg)
+![up-in-the-air-3]({{site.imageurl}}/up-in-the-air-3.jpg)
 
-![up-in-the-air-4](/img/up-in-the-air-4.jpg)
+![up-in-the-air-4]({{site.imageurl}}/up-in-the-air-4.jpg)
 
-![up-in-the-air-5](/img/up-in-the-air-5.jpg)
+![up-in-the-air-5]({{site.imageurl}}/up-in-the-air-5.jpg)
