@@ -2,7 +2,7 @@
 layout:     post
 categories: "media"
 tags:       [reading]
-title:      "谢谢你,小砚--读<走吧，张小砚> "
+title:      "谢谢你,小砚@<走吧，张小砚> "
 subtitle:   "Thank You, Xiaoyan"
 date:       2011-12-04 09:29
 author:     "Charles"

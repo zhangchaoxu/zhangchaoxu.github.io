@@ -3,7 +3,6 @@ layout:     post
 categories: "media"
 tags:       [podcast]
 title:      "Podcast List 0: IT公论"
-date:       2014-09-24 12:00:00
 author:     "Charles"
 ---
 

@@ -4,7 +4,6 @@ categories: "media"
 tags:       [podcast]
 title:      "Podcast List 1: Page Seven"
 subtitle:   "透过声音看风景."
-date:       2014-09-24 12:00:00
 author:     "Charles"
 ---
 
