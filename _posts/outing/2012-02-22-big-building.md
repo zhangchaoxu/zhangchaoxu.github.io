@@ -1,9 +1,10 @@
 ---
 layout:     post
+categories: "outing"
+tags:       []
 title:      "大建筑"
 subtitle:   "Big Building"
 date:       2012-02-22 13:21
-author:     "Charles"
 ---
 
 最近几年超大型规模的建筑在中国的各个城市遍地开花，世界第N高楼、国外著名设计师设计、世界最大的无梁结构建筑等等的头衔争相夺取。

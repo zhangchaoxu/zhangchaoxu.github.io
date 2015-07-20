@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "一个人 一座山@凤凰岭"
 subtitle:   "Fenghuangling in Beijing"
 date:       2011-12-07 05:55
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 北京难得的好天气，蓝天白云、空气通透，吃过午饭后拿着北京年票就出去了。

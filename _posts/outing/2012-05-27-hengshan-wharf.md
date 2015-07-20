@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [ningbo]
 title:      "美景非良辰"
 subtitle:   "Hengshan Wharf"
 date:       2012-05-27 02:35
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 ![hengshanwharf2](/img/hengshanwharf2.jpg)

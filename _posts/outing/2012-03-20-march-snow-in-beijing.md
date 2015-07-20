@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "京城三月飞雪"
 subtitle:   "March Snow in Beijing"
 date:       2012-03-20 03:27
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 三月中的一个周末，暖气将息，早上起来一摸床边的暖气片：哎呦， 比昨天还热，烫手哩，是回光返照还是停暖前的恩惠。

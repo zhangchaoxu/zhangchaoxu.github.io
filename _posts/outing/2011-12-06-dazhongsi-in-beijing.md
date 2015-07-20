@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "大钟寺@北京"
 subtitle:   "Dazhongsi in Beijing"
 date:       2011-12-06 11:02
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 在北京说大钟寺，一般大家都会理解成是一个公交站名或者是城铁站名，坐拥北三环，倚靠联想桥，确实是个好地方，

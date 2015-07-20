@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "雨中潭柘寺寻幽@北京"
 subtitle:   "Tanzhesi in Beijing"
 date:       2011-12-07 05:40
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 在北京，素有“现有潭柘寺，后有北京城”之说，以此说明潭柘寺的悠久历史。

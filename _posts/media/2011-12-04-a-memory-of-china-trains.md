@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "media"
+tags:       [reading]
 title:      "火车叨位去@赵妮娜<记忆火车> "
 subtitle:   "A Memory of China Trains"
 date:       2011-12-04 09:24
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 [![open in douban](/img/a-memory-of-china-trains.jpg)](http://book.douban.com/subject/1877908/)

@@ -1,5 +1,7 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "五塔寺@北京"
 subtitle:   "Wutasi in Beijing"
 date:       2011-12-07 05:23

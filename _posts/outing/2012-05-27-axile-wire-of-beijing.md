@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "北京的韵律中轴线"
 subtitle:   "Axile Wire of Beijing"
 date:       2012-05-27 01:45
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 北京作为辽、金、元、明、清五朝古都，由于朝代比较近，是中国保留都城遗迹作为完整的一个城市。

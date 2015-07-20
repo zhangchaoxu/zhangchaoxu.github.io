@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "万寿寺@北京"
 subtitle:   "Wanshousi in Beijing"
 date:       2011-12-06 10:58
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 在高粱桥的长河湾畔上除了有五塔寺外还有一座更为著名的万寿寺，同样的，万寿寺现在已经进化成为一个地名了。

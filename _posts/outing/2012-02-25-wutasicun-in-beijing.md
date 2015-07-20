@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "五塔寺边五塔寺村"
 subtitle:   "Wutasicun in Beijing"
 date:       2012-02-25 03:34
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 上次提到在西直门外和白石桥东附近的高粱河边有一座大隐于市的五塔寺，而挨着这五塔寺的是一个小而落魄的五塔寺村。

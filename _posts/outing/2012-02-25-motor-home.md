@@ -1,10 +1,11 @@
 ---
 layout:     post
-title:      "房车＠北京"
+categories: "outing"
+tags:       [beijing]
+title:      "房车@北京"
 subtitle:   "Motor Home in Beijing"
 date:       2012-02-25 03:54
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 美国人为了自由开着房车环游世界，而我们同样住着房车居隅于城市的角落确实为了生存。

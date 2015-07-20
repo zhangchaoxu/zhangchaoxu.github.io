@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "百花深处@北京"
 subtitle:   "100 Flowers Hidden Deep"
 date:       2011-12-06 10:44
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 百花深处是北京胡同中名字极雅致的一个，隶属西城区的什刹海街道，然而真正让其出名的我想是信乐团那首One Night in 北京(陈升的北京一夜)，那句”不敢在午夜问路 怕走到了百花深处”。

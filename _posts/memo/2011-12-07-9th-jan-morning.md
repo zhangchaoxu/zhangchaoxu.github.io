@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "memo"
+tags:       [bjtu]
 title:      "1月9日，清晨不晨"
 subtitle:   "9th Jan Morning"
 date:       2011-12-07 06:07
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 这是去年的1月9日考完研究生学位英语考试后在blogbus写的一篇日志，算是对自己的一份总结。

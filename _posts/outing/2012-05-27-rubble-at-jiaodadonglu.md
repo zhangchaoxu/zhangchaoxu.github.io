@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [bjtu,beijing]
 title:      "瓦砾@交大东路"
 subtitle:   "Rubble at Jiaodadonglu"
 date:       2012-05-27 02:24
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 ![demolitionatjiaodadonglu](/img/demolitionatjiaodadonglu.jpg)

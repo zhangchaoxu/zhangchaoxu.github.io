@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [shanghai]
 title:      "元宵节逛城隍庙@上海"
 subtitle:   "Lantern Shanghai Chenghuangmiao"
 date:       2011-12-04 14:21
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 江浙一带的人对上海都会格外的熟悉，我所在的小县城建筑业比较发达，因此外出务工的也比较多，经常上海、苏南的跑。

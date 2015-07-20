@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "骑行明十三陵@北京"
 subtitle:   "Ming Tombs"
 date:       2011-12-06 10:51
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 早先时间看了当年明月的《明朝那些事儿》，恰巧这个假期就在昌平度过。

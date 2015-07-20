@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [tianjin]
 title:      "念念不忘@天津"
 subtitle:   "Love in Tianjin"
 date:       2011-12-04 08:41
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 总有那么一个城市让人念念不忘，也总有那么一个人让你恋恋不舍。

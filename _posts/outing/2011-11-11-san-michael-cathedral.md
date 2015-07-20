@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [church,beijing]
 title:      "圣米厄尔天主堂@东交民巷"
 subtitle:   "San Michael Cathedral"
 date:       2011-11-09 17:36
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 圣米厄尔，也就是大天使米迦勒(Michael)，是神话中的天使长。

@@ -1,5 +1,7 @@
 ---
 layout:     post
+categories: "outing"
+tags:       []
 title:      "鲁迅故居--从百草园到三味书屋"
 subtitle:   "Luxun House"
 date:       2012-02-20 14:20

@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "media"
+tags:       [reading]
 title:      "谢谢你,小砚--读<走吧，张小砚> "
 subtitle:   "Thank You, Xiaoyan"
 date:       2011-12-04 09:29
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 [![open in douban](/img/thank-you-xiaoyan.jpg)](http://book.douban.com/subject/5366278/)

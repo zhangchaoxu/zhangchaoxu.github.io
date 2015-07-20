@@ -1,10 +1,11 @@
 ---
 layout:     post
+categories: "outing"
+tags:       [beijing]
 title:      "地坛春季书市@北京"
 subtitle:   "Ditan Spring Bookmarket"
 date:       2011-12-07 05:23
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 一个爱读书的民族才真正有希望，因为他们热忱地希望获得新的知识，而如此迫切的对知识的渴望是法子内心的，
