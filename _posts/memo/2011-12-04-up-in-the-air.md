@@ -1,10 +1,10 @@
 ---
 layout:     post
+categories: "memo"
 title:      "Up in the air"
 subtitle:   "Up in the air"
 date:       2011-12-04 09:49
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 第一次坐飞机应该是在2009年的2月份，刚过春节，手里钱富足！

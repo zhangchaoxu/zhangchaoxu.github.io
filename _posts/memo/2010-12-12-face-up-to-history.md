@@ -1,10 +1,10 @@
 ---
 layout:     post
+categories: "memo"
 title:      "正视历史"
 subtitle:   "Face up to History"
 date:       2010-12-12 18:45
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 这几天读赵紫阳的《改革历程》，对1989年春末夏初那段六四事件历史有了一个说不上是客观，但相对比较全面的了解。
@@ -36,6 +36,6 @@ header-img: "img/post-bg-01.jpg"
 
 参考资料：
 
-[1]: 赵紫阳.《改革历程》
+赵紫阳.《改革历程》
 
-[2]: 刘瑜.《至少还有回忆》 选自《民主的细节》
+刘瑜.《至少还有回忆》 选自《民主的细节》
