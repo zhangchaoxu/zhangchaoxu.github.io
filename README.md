@@ -9,4 +9,5 @@ Build with [Jekyll](http://jekyllrb.com/) and [3-Jekyll](https://github.com/P233
 
 ## License
 All Code is licensed under [Apache License V2.0](http://opensource.org/licenses/Apache-2.0)
+
 All content is licensed under [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
