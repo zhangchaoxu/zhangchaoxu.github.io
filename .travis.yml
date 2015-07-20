@@ -3,8 +3,16 @@ language: ruby
 rvm:
 - 2.1
 # Assume bundler is being used, install step will run `bundle install`.
-install: gem install jekyll html-proofer
-script: jekyll build && htmlproof ./_site
+install:
+  - gem install jekyll html-proofer
+  - gem install kramdown
+  - gem install rouge
+  - gem install jekyll-sitemap
+
+script:
+  # jekyll build && htmlproof ./_site
+  - bundle exec jekyll build
+  - bundle exec htmlproof ./_site --only-4xx --check-favicon --check-html
 
 # script:
 #  - bundle exec jekyll build
