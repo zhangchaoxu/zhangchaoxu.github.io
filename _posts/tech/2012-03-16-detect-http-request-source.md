@@ -1,11 +1,10 @@
 ---
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "服务器判断HTTP请求来源"
 subtitle:   "detect-http-request-source"
 date:       2012-03-16 08:24
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 根据上一篇文章[HTTP请求模型]({{ site.url }}/tech/2012/03/16/http-request.html),我们知道在HTTP请求的消息头中包含了大量信息。

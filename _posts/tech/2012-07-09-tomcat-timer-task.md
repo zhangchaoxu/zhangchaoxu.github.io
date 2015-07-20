@@ -1,11 +1,10 @@
 ---
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "Java Web定时执行任务"
 subtitle:   "Tomcat Timer Task"
 date:       2012-07-09 01:41
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 这是前阵子在做交大数字校园项目时候遇到的一个问题。

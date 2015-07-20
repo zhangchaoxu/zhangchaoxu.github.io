@@ -1,8 +1,9 @@
 ---
 layout:     post
-category:   "tech"
-title:      "HTML页面图片指定位置链接--MAP热点地图标签的使用"
-subtitle:   "Html Hotmap"
+categories: "tech"
+title:      "HTML页面图片指定位置链接"
+subtitle:   "MAP热点地图标签的使用"
+tags:       [html]
 date:       2012-03-14 01:28
 author:     "Charles"
 ---

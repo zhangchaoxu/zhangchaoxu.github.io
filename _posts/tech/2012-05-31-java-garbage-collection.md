@@ -1,11 +1,10 @@
 ---
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "JAVA的内存分配策略和自动垃圾回收机制"
 subtitle:   "Java Garbage Collection"
 date:       2012-05-31 07:50
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 JAVA和C++之间有一堵由内存分配和垃圾收集技术所围成的高墙，墙外的人想进来，墙内的人想出来。

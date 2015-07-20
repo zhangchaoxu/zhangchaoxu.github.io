@@ -1,13 +1,10 @@
 ---
-published:  ture
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "Android Error Solution: Please ensure that adb is correctly located"
 subtitle:   "android-error-solution-please-ensure-that-adb-is-correctly-located"
 date:       2012-09-10 08:53
 author:     "Charles"
-tags:
-- Android
 ---
 
 Android开发环境奔溃的概率太大，当使用sqlite的时候，莫名其妙的问题更多。

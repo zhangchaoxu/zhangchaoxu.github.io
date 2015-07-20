@@ -1,6 +1,6 @@
 ---
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "Android单元测试"
 subtitle:   "Android Unit Test"
 date:       2015-07-08 00:00
@@ -23,6 +23,6 @@ Instrumentation和JUnit可以在Build Variants面板中切换。
 ## 测试框架
 
 ### Ref:
-[1]: [Testing Fundamentals](http://developer.android.com/tools/testing/testing_android.html)
-[2]: [Unit testing support](http://tools.android.com/tech-docs/unit-testing-support)
-[3]: [Gradle Plugin Samples 之 Gradle Unit Test](http://ask.android-studio.org/?/article/44)
+[Testing Fundamentals](http://developer.android.com/tools/testing/testing_android.html)
+[Unit testing support](http://tools.android.com/tech-docs/unit-testing-support)
+[Gradle Plugin Samples 之 Gradle Unit Test](http://ask.android-studio.org/?/article/44)

@@ -1,11 +1,10 @@
 ---
 layout:     post
-category:   "tech"
+categories: "tech"
 title:      "网站性能优化"
 subtitle:   "Web Performance Enhancement"
 date:       2012-06-18 03:22
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 首先我得承认，自己并没有大型网站(大访问量、大数据量)的网站建站与维护经验。手头做过最大访问量的一个网站也不过是北京交通大学数字校园的WAP站点`http://wap.bjtu.edu.cn/`，这个网站确实是我从零搭建起来的，不过由于项目经费限制，也并没有在硬件上做任何优化，甚至web服务器和db服务器都是同一台的。所做的只是在软件层面上尽量地小心，避免很多会对网站性能和响应速度带来影响的因素，最直接也是最有效的一个措施就是页面静态化。
