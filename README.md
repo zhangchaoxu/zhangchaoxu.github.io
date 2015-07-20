@@ -5,9 +5,9 @@
 LEAN56 is a Blog of mine, more Information please visit [About Page](http://lean56.com/about/)
 
 ## Support
-Build with [Jekyll](http://jekyllrb.com/) and [3-Jekyll](https://github.com/P233/3-Jekyll) theme ? Hosted on [Github](https://pages.github.com/)
+Powered by [Jekyll](http://jekyllrb.com/) on [Github](https://pages.github.com/) and Theme [3-Jekyll](https://github.com/P233/3-Jekyll)
 
 ## License
-All Code is licensed under [Apache License V2.0](http://opensource.org/licenses/Apache-2.0)
+LEAN56.com site code is licensed under [Apache License V2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-All content is licensed under [CC BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+LEAN56.com site content is licensed under [![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
