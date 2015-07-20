@@ -1,9 +1,9 @@
 ---
 layout:     post
 categories: "media"
-tags:       [reading]
 title:      "火车叨位去@赵妮娜<记忆火车> "
 subtitle:   "A Memory of China Trains"
+tags:       [reading]
 date:       2011-12-04 09:24
 author:     "Charles"
 ---
