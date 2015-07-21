@@ -3,7 +3,6 @@ layout:     post
 categories: "memo"
 title:      "Up in the air"
 subtitle:   "Up in the air"
-date:       2011-12-04 09:49
 author:     "Charles"
 ---
 

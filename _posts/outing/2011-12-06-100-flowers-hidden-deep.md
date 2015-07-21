@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "百花深处@北京"
 subtitle:   "100 Flowers Hidden Deep"
-date:       2011-12-06 10:44
 author:     "Charles"
 ---
 

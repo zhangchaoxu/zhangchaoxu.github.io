@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "一个人 一座山@凤凰岭"
 subtitle:   "Fenghuangling in Beijing"
-date:       2011-12-07 05:55
 author:     "Charles"
 ---
 

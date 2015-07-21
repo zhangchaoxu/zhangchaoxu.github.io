@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "骑行明十三陵@北京"
 subtitle:   "Ming Tombs"
-date:       2011-12-06 10:51
 author:     "Charles"
 ---
 

@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "京城三月飞雪"
 subtitle:   "March Snow in Beijing"
-date:       2012-03-20 03:27
 author:     "Charles"
 ---
 

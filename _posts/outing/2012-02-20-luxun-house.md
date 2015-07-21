@@ -4,9 +4,7 @@ categories: "outing"
 tags:       []
 title:      "鲁迅故居--从百草园到三味书屋"
 subtitle:   "Luxun House"
-date:       2012-02-20 14:20
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 去了绍兴，鲁迅故居自然是必不可少的了。

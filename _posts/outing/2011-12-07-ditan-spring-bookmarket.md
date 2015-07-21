@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "地坛春季书市@北京"
 subtitle:   "Ditan Spring Bookmarket"
-date:       2011-12-07 05:23
 author:     "Charles"
 ---
 

@@ -3,7 +3,6 @@ layout:     post
 categories: "tech"
 title:      "网页图片压缩"
 subtitle:   "Web Thumbnail Tools"
-date:       2012-07-09 01:52
 author:     "Charles"
 ---
 在网页中经常会用到图片的压缩，缩略图的生成。

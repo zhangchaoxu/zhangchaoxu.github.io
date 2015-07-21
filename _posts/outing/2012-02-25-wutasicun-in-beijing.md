@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "五塔寺边五塔寺村"
 subtitle:   "Wutasicun in Beijing"
-date:       2012-02-25 03:34
 author:     "Charles"
 ---
 

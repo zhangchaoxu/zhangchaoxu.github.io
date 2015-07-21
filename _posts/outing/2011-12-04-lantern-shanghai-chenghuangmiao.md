@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [shanghai]
 title:      "元宵节逛城隍庙@上海"
 subtitle:   "Lantern Shanghai Chenghuangmiao"
-date:       2011-12-04 14:21
 author:     "Charles"
 ---
 

@@ -3,7 +3,6 @@ layout:     post
 categories: "tech"
 title:      "服务器判断HTTP请求来源"
 subtitle:   "detect-http-request-source"
-date:       2012-03-16 08:24
 author:     "Charles"
 ---
 

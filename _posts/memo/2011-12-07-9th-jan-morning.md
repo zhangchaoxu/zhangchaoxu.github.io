@@ -4,7 +4,6 @@ categories: "memo"
 tags:       [bjtu]
 title:      "1月9日，清晨不晨"
 subtitle:   "9th Jan Morning"
-date:       2011-12-07 06:07
 author:     "Charles"
 ---
 

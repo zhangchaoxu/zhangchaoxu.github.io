@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [church,beijing]
 title:      "圣米厄尔天主堂@东交民巷"
 subtitle:   "San Michael Cathedral"
-date:       2011-11-09 17:36
 author:     "Charles"
 ---
 

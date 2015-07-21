@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "万寿寺@北京"
 subtitle:   "Wanshousi in Beijing"
-date:       2011-12-06 10:58
 author:     "Charles"
 ---
 

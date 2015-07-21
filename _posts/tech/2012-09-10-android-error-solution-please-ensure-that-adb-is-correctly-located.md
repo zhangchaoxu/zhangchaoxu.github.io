@@ -1,9 +1,8 @@
 ---
 layout:     post
 categories: "tech"
-title:      "Android Error Solution: Please ensure that adb is correctly located"
+title:      "Please ensure that adb is correctly located"
 subtitle:   "android-error-solution-please-ensure-that-adb-is-correctly-located"
-date:       2012-09-10 08:53
 author:     "Charles"
 ---
 

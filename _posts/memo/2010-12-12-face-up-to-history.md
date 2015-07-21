@@ -3,7 +3,6 @@ layout:     post
 categories: "memo"
 title:      "正视历史"
 subtitle:   "Face up to History"
-date:       2010-12-12 18:45
 author:     "Charles"
 ---
 

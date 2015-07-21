@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "雨中潭柘寺寻幽@北京"
 subtitle:   "Tanzhesi in Beijing"
-date:       2011-12-07 05:40
 author:     "Charles"
 ---
 

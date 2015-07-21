@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "北京的韵律中轴线"
 subtitle:   "Axile Wire of Beijing"
-date:       2012-05-27 01:45
 author:     "Charles"
 ---
 

@@ -4,9 +4,7 @@ categories: "outing"
 tags:       [beijing]
 title:      "五塔寺@北京"
 subtitle:   "Wutasi in Beijing"
-date:       2011-12-07 05:23
 author:     "Charles"
-header-img: "img/post-bg-01.jpg"
 ---
 
 我想很少有人知道在西直门外，白石桥以东的长河北岸坐落着一座幽静的寺庙。

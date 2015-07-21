@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [beijing]
 title:      "大钟寺@北京"
 subtitle:   "Dazhongsi in Beijing"
-date:       2011-12-06 11:02
 author:     "Charles"
 ---
 

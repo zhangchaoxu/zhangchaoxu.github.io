@@ -4,7 +4,6 @@ categories: "media"
 tags:       [reading]
 title:      "什么是美@李泽厚<美的历程>"
 subtitle:   "What is Beauty"
-date:       2011-12-04 09:17
 author:     "Charles"
 ---
 

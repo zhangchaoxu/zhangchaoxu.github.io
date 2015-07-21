@@ -4,7 +4,6 @@ categories: "tech"
 title:      "MySQL中自增字段初始值和偏移量"
 subtitle:   "Mysql Auto Increment"
 tags:       [db]
-date:       2012-02-24 03:15
 author:     "Charles"
 ---
 

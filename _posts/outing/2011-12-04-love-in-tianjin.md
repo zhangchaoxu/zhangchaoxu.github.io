@@ -4,7 +4,6 @@ categories: "outing"
 tags:       [tianjin]
 title:      "念念不忘@天津"
 subtitle:   "Love in Tianjin"
-date:       2011-12-04 08:41
 author:     "Charles"
 ---
 

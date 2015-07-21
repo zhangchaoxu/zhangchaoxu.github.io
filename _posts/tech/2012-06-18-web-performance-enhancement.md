@@ -3,7 +3,6 @@ layout:     post
 categories: "tech"
 title:      "网站性能优化"
 subtitle:   "Web Performance Enhancement"
-date:       2012-06-18 03:22
 author:     "Charles"
 ---
 
