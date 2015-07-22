@@ -1,7 +1,7 @@
 ---
 layout:     post
 categories: "media"
-title:      "火车叨位去@赵妮娜<记忆火车> "
+title:      "火车叨位去@赵妮娜<记忆火车>"
 subtitle:   "A Memory of China Trains"
 tags:       [reading]
 author:     "Charles"
