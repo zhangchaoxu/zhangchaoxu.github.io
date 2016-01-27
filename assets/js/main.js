@@ -66,6 +66,11 @@ $(function() {
     $(this).addClass('active').siblings().removeClass('active');
   });
 
+    // toc click
+    $('#toc').on('click', '.toc-link', function() {
+        $(this).addClass('active').siblings().removeClass('active');
+    });
+
 
   // Menu
   menu.on('click', function() {

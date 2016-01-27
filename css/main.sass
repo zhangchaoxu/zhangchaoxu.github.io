@@ -17,11 +17,13 @@ $font: 'Open Sans', 'Hiragino Sans GB', sans-serif
 
 // # Sidebar Background Gradient
 
-$gradient-start: #309E85
-$gradient-end:   #309E85
+$gradient-start: #F05F40
+$gradient-end:   #F05F40
 
-$sidebar-bg: linear-gradient(136deg, $gradient-start, $gradient-end)
-
+$sidebar-bg: #F05F40
+$sidebar-hover: white
+$sidebar-active: #222
+//linear-gradient(136deg, $gradient-start, $gradient-end)
 
 // # Sidebar Left
 $sidebar-left-width: 150px
@@ -45,10 +47,10 @@ $tag-height: 50px
 $tag-font-size: 17px
 
 $tag-color: rgba(255, 255, 255, .7)
-$tag-hover-color: rgba(255, 255, 255, .85)
-$tag-active-color: $gradient-end
+$tag-hover-color: $sidebar-hover //rgba(255, 255, 255, .85)
+$tag-active-color: $sidebar-active //$gradient-end
 
-$tag-border-color: rgba(255, 255, 255, .5)
+$tag-border-color: $sidebar-hover //rgba(255, 255, 255, .5)
 
 
 // # Sidebar Right
@@ -64,7 +66,7 @@ $search-box-bg: rgba(255, 255, 255, .3)
 
 // Toc
 $toc-color: #55606F
-$toc-bg: $tag-border-color
+$toc-bg: $sidebar-hover // $tag-border-color
 
 $toc-font-size: 16px
 $toc-line-height: 22px
@@ -76,8 +78,6 @@ $toc-bullet-read: $toc-color
 
 // # Sidebar width
 $sidebar-width: $sidebar-left-width + $sidebar-right-width + 1
-
-
 
 // # Post
 
@@ -92,7 +92,7 @@ $post-text-color: #283444
 $post-link-color: lighten($post-text-color, 20%)
 $post-link-hover-color: $gradient-end
 
-$post-bg: #F8F8F8
+$post-bg: #FCFCFC
 
 // disable img border
 // $post-img-border-color: darken($post-bg, 4%)
@@ -145,7 +145,7 @@ $code-scrollbar-color: $post-meta-color
 // # NProgerss
 
 $nprogress-height: 3px
-$nprogress-color: red
+$nprogress-color: $sidebar-bg
 
 
 
