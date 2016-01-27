@@ -76,9 +76,21 @@ $(function() {
     $(this).add(sidebar).toggleClass('open');
   });
 
-  $('#search-input').on('input', function(e){
-    toc.hide();
-    $('.toc-link:contains(' + this.value + ')').fadeIn(350);
-  });
+    //搜索框文字变化时间
+    $("#search-input").keyup(function () {
+        var text = $("#search-input").val().toLowerCase();
+
+        if (text == "" || text == undefined) {
+            $(".toc-link").show();
+        } else {
+            $(".toc-link").hide().each(function () {
+                var htmlstr = $(this).html().toLowerCase();
+                if (htmlstr.indexOf(text) != -1) {
+                    console.log(htmlstr);
+                    $(this).show();
+                }
+            })
+        }
+    })
 
 });
