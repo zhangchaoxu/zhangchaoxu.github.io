@@ -76,4 +76,9 @@ $(function() {
     $(this).add(sidebar).toggleClass('open');
   });
 
+  $('#search-input').on('input', function(e){
+    toc.hide();
+    $('.toc-link:contains(' + this.value + ')').fadeIn(350);
+  });
+
 });
